@@ -5,7 +5,7 @@ Application of the Error, Trend, Seasonality (ETS) model to forecast rainfall pa
 The ETS (Error, Trend, Seasonality) model implemented in this repository offers a robust approach to forecasting rainfall patterns. ETS models are adept at capturing various components of time series data, including error, trend, and seasonality, making them suitable for modeling and predicting complex temporal phenomena such as rainfall fluctuations. An ETS model is specified by an error type (E; additive or multiplicative), a trend type (T; additive or multiplicative, both damped or undamped, or none), and a seasonality type (S; additive or multiplicative or none).
 
 # Data
-The repository contains time series data consisting of rainfall data spanning from 1992 to 2021. This data was meticulously recorded by the Pakistan Meteorological Department and obtained for M.Phil Research purposes.
+The repository contains time series data consisting of monthly rainfall data spanning from 1992 to 2021. This data was meticulously recorded by the Pakistan Meteorological Department and obtained for M.Phil Research purposes.
 
 # Requirements
 - RStudio version 2023.06.1 Build 524
